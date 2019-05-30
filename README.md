@@ -33,4 +33,6 @@ You will need to use `npm install` to install this package in your repository an
 4. You will need to use `npm install` to install the pluralize package from the npm registry
 5. Then you will need to import it in to the index.js file
 6. Then you can use it to output the expected text
-7. 
+7. Once it is all working then commit the changes locally
+8. Then push the local commits to your GitHub repository
+9. Finally, post a link to your working code in Slack
