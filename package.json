@@ -1,0 +1,19 @@
+{
+  "name": "pluralize-exercise",
+  "version": "1.0.0",
+  "description": "The goal of this exercise is to practice a few of the topics that we have covered recently including: * Working in Git   * Forking a repository   * Cloning a remote repository   * Making commits to a local repository   * Pushing those commits to a remote repository * Using npm packages   * Installing an npm package   * Using it in a JavaScript file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siirila/pluralize-exercise.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siirila/pluralize-exercise/issues"
+  },
+  "homepage": "https://github.com/siirila/pluralize-exercise#readme"
+}
